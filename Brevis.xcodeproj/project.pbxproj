@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		0CAE43A52F7A8F6F00358BCB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0CAE43A42F7A8F6F00358BCB /* README.md */; };
-		0CAE43A72F7A918200358BCB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 0CAE43A62F7A918200358BCB /* README.md */; };
 		B92FD3DA2B55173600C6CCF3 /* BrevisApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92FD3D92B55173600C6CCF3 /* BrevisApp.swift */; };
 		B92FD3DE2B55173700C6CCF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B92FD3DD2B55173700C6CCF3 /* Assets.xcassets */; };
 		B92FD3E22B55173700C6CCF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B92FD3E12B55173700C6CCF3 /* Preview Assets.xcassets */; };
@@ -25,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		0CAE43A42F7A8F6F00358BCB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		0CAE43A62F7A918200358BCB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B92FD3D62B55173600C6CCF3 /* Brevis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Brevis.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B92FD3D92B55173600C6CCF3 /* BrevisApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrevisApp.swift; sourceTree = "<group>"; };
 		B92FD3DD2B55173700C6CCF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -118,7 +116,6 @@
 				B92FD3F72B556CB500C6CCF3 /* HotkeySectionView.swift */,
 				B92FD3F92B55767C00C6CCF3 /* HotkeyRow.swift */,
 				B92FD3FB2B5596A800C6CCF3 /* KeySymbolView.swift */,
-				0CAE43A62F7A918200358BCB /* README.md */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -191,7 +188,6 @@
 			files = (
 				0CAE43A52F7A8F6F00358BCB /* README.md in Resources */,
 				B92FD3E22B55173700C6CCF3 /* Preview Assets.xcassets in Resources */,
-				0CAE43A72F7A918200358BCB /* README.md in Resources */,
 				B92FD3DE2B55173700C6CCF3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

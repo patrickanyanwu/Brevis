@@ -38,15 +38,6 @@ This keeps responsibilities separated: views focus on layout and rendering, mode
 
 - Browse hotkey categories in the main list.
 - Use the search bar to filter hotkeys by name or description.
-- Tap a hotkey to view more details (if provided by the app’s detail view).
-
-## Roadmap / Ideas
-
-- Favorites: Mark frequently used hotkeys for quick access.
-- iCloud sync for favorites across devices.
-- Export/share selected hotkeys.
-- Deeper detail pages with examples and context.
-- Localized strings for multiple languages.
 
 ## Project Structure (high level)
 
@@ -54,11 +45,3 @@ This keeps responsibilities separated: views focus on layout and rendering, mode
 - ViewModels: `HotkeyCategoryViewModel`.
 - Models: Category and hotkey models backing the UI.
 - Theme: Centralized styling such as list style and frame sizes.
-
-## Contributing
-
-Suggestions and contributions are welcome. Feel free to open an issue or submit a pull request.
-
-## License
-
-This project is available under the MIT License. See LICENSE for details.
