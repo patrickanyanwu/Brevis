@@ -3,11 +3,7 @@
 Brevis is a small SwiftUI app I built to demonstrate my Swift skills. It presents Xcode keyboard shortcuts in a clean, searchable interface with thoughtful architecture and theming. This project showcases SwiftUI best practices, view composition, simple MVVM patterns, and attention to UX details.
 
 ## Demo
-
-[Placeholder] Insert GIF/video/screenshot here demonstrating the app in action.
-
-- Suggested: Add a short screen recording (10–20s) showing search, navigation, and the hotkey sections.
-- Tip: Drag a GIF or link to a `.mp4` hosted asset and replace this placeholder.
+https://github.com/user-attachments/assets/08c7acb6-5870-4da0-953b-48af07c7c472
 
 ## Features
 
